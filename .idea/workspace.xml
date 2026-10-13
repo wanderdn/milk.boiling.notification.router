@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="787534f1-1105-4f28-a866-655dd134c222" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/9.0.0/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/9.0.0/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/9.0.0/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/9.0.0/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/9.0.0/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/9.0.0/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/9.0.0/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/milk/boiling/notification/dto/DTOInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/milk/boiling/notification/dto/MILK_STATUS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/milk/boiling/notification/dto/MilkBoilingEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/milk/boiling/notification/dto/MilkBoilingEventStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/milk/boiling/notification/dto/MilkCommandType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/milk/boiling/notification/dto/MilkSubDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/milk/boiling/notification/dto/SerializationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/milk/boiling/notification/dto/UserSubscriptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/milk/boiling/notification/dto/websocket/MilkBoilingMessageType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/milk/boiling/notification/dto/websocket/UserMessageContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/milk/boiling/notification/dto/websocket/UserWebSocketCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/milk/boiling/notification/router/RouterApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/milk/boiling/notification/router/RouterHandlerMappingConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/milk/boiling/notification/router/UserWebSocketHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/milk/boiling/notification/router/subscriptions/MilkBoilingEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/milk/boiling/notification/router/subscriptions/UserSubscriptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/milk/boiling/notification/router/subscriptions/cache/RocksDbCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/milk/boiling/notification/router/subscriptions/cache/SubscriptionCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/milk/boiling/notification/router/RouterApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/.idea">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="router" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="router" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="router" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="3JDNCMNXeFkEtl4oD9EWJrwux29" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Build milk.boiling.notification.router.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Download Sources.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Spring Boot.RouterApplication (1).executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.RouterApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/wande/repos/milk.boiling.notification.router/src/main/java&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wande\repos\milk.boiling.notification.router\src\main\java" />
+      <recent name="C:\Users\wande\repos\milk.boiling.notification.router\src\main\java\milk\boiling\notification\dto" />
+      <recent name="C:\Users\wande\repos\milk.boiling.notification.router" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wande\repos\milk.boiling.notification.router" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.milk.boiling.notification" />
+      <recent name="org.milk.boiling.notification.dto" />
+      <recent name="milk.boiling.notification.router" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="RouterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UnknownPolicyInFreeMode" />
+      <module name="milk.boling.notification..router.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.milk.boiling.notification.router.RouterApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="milk.boiling.notification.router.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.RouterApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="787534f1-1105-4f28-a866-655dd134c222" name="Changes" comment="" />
+      <created>1789191551738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789191551738</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/milk/boiling/notification/dto/SerializationService.java</url>
+          <line>23</line>
+          <properties>
+            <option name="lambda-ordinal" value="0" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
