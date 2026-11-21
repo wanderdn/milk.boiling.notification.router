@@ -25,7 +25,6 @@ public class RocksDbCache implements SubscriptionCache, SmartLifecycle {
         Options options = new Options()
                 .setOptimizeFiltersForHits(true)
                 .setUseDirectReads(true).setDisableAutoCompactions(true).optimizeForSmallDb()
-
                 .setCompressionOptions(new CompressionOptions().setEnabled(false))
                 .setCreateIfMissing(true);
         this.rocksDB = RocksDB.open(options, "123.db");

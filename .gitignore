@@ -1,6 +1,10 @@
 HELP.md
 .gradle
 build/
+*.class
+*.jar
+*.war
+*.ear
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
@@ -35,3 +39,30 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### Local indexes and runtime files ###
+/.codegraph/
+/.kotlin/
+/*.db/
+/logs/
+*.log
+*.hprof
+*.jfr
+hs_err_pid*
+replay_pid*
+
+### Local environment (keep templates) ###
+.env
+.env.*
+!.env.example
+!.env.sample
+!.env.template
+
+### OS and editor temporary files ###
+.DS_Store
+Thumbs.db
+Desktop.ini
+*~
+*.swp
+*.swo
+*.tmp
